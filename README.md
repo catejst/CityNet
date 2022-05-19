@@ -18,3 +18,5 @@ Install `gem` dependencies with
 Run the site locally with
 
     bundle exec jekyll serve
+    
+    test rm
